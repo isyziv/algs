@@ -1,0 +1,66 @@
+[
+  {
+    "id": "tiny_00",
+    "group": "tiny"
+  },
+  {
+    "id": "tiny_01",
+    "group": "tiny"
+  },
+  {
+    "id": "tiny_02",
+    "group": "tiny"
+  },
+  {
+    "id": "small_00",
+    "group": "small"
+  },
+  {
+    "id": "small_01",
+    "group": "small"
+  },
+  {
+    "id": "small_02",
+    "group": "small"
+  },
+  {
+    "id": "small_03",
+    "group": "small"
+  },
+  {
+    "id": "mid_00",
+    "group": "mid"
+  },
+  {
+    "id": "mid_01",
+    "group": "mid"
+  },
+  {
+    "id": "mid_02",
+    "group": "mid"
+  },
+  {
+    "id": "mid_03",
+    "group": "mid"
+  },
+  {
+    "id": "large_00",
+    "group": "large"
+  },
+  {
+    "id": "large_01",
+    "group": "large"
+  },
+  {
+    "id": "large_02",
+    "group": "large"
+  },
+  {
+    "id": "xl_00",
+    "group": "xl"
+  },
+  {
+    "id": "xl_01",
+    "group": "xl"
+  }
+]
