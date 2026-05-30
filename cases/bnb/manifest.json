@@ -1,38 +1,26 @@
 [
   {
-    "id": "bb08_00",
-    "group": "bb08"
+    "id": "bb_easy_00",
+    "group": "bb_easy"
   },
   {
-    "id": "bb08_01",
-    "group": "bb08"
+    "id": "bb_easy_01",
+    "group": "bb_easy"
   },
   {
-    "id": "bb12_00",
-    "group": "bb12"
+    "id": "bb_mid_00",
+    "group": "bb_mid"
   },
   {
-    "id": "bb12_01",
-    "group": "bb12"
+    "id": "bb_mid_01",
+    "group": "bb_mid"
   },
   {
-    "id": "bb16_00",
-    "group": "bb16"
+    "id": "bb_hard_00",
+    "group": "bb_hard"
   },
   {
-    "id": "bb16_01",
-    "group": "bb16"
-  },
-  {
-    "id": "bb18_00",
-    "group": "bb18"
-  },
-  {
-    "id": "bb20_00",
-    "group": "bb20"
-  },
-  {
-    "id": "bb22_00",
-    "group": "bb22"
+    "id": "bb_hard_01",
+    "group": "bb_hard"
   }
 ]

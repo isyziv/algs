@@ -1,42 +1,26 @@
 [
   {
-    "id": "dp04_00",
-    "group": "dp04"
+    "id": "dp_easy_00",
+    "group": "dp_easy"
   },
   {
-    "id": "dp04_01",
-    "group": "dp04"
+    "id": "dp_easy_01",
+    "group": "dp_easy"
   },
   {
-    "id": "dp08_00",
-    "group": "dp08"
+    "id": "dp_mid_00",
+    "group": "dp_mid"
   },
   {
-    "id": "dp08_01",
-    "group": "dp08"
+    "id": "dp_mid_01",
+    "group": "dp_mid"
   },
   {
-    "id": "dp12_00",
-    "group": "dp12"
+    "id": "dp_hard_00",
+    "group": "dp_hard"
   },
   {
-    "id": "dp12_01",
-    "group": "dp12"
-  },
-  {
-    "id": "dp16_00",
-    "group": "dp16"
-  },
-  {
-    "id": "dp16_01",
-    "group": "dp16"
-  },
-  {
-    "id": "dp18_00",
-    "group": "dp18"
-  },
-  {
-    "id": "dp18_01",
-    "group": "dp18"
+    "id": "dp_hard_01",
+    "group": "dp_hard"
   }
 ]
